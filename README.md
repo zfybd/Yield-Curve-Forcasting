@@ -3,7 +3,7 @@
 
 An R-based analytical code for yield curve analysis and optimal investment strategy recommendation. The model evaluates yield curve shapes and suggests the most effective fixed-income investment horizons (1-5 years) for present value maximization.
 
-![Yield Curve Example](https://via.placeholder.com/800x400?text=Yield+Curve+Analysis+Screenshot) *(replace with actual plot)*
+
 
 ## ✨ Key Features
 
@@ -22,8 +22,7 @@ An R-based analytical code for yield curve analysis and optimal investment strat
   - Historical pattern replication
   - Custom parameter inputs
 
-## 🚀 Getting Started
 
-### Prerequisites
-- R (≥ 4.0.0)
-- Recommended packages: `dplyr`, `ggplot2`, `shiny` (if interactive)
+## 🚀 Getting Started
+result demo:
+![Strategy_result](https://github.com/user-attachments/assets/5f4aa70d-8a87-4e3e-bcf0-d613bf47178c)
